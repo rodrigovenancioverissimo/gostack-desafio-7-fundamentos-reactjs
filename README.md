@@ -2,7 +2,8 @@
   <a href="" rel="noopener">
  <img src="doc/assets/banner-readme.png" alt="Project logo"></a>
 </p>
-<h3 align="center">Desafio 07: GoFinances Web</h3>
+<h2 align="center">GoFinances</h2>
+<h3 align="center">Desafio 07: Fundamentos de React.JS</h3>
 
 <div align="center">
 
@@ -26,6 +27,7 @@ Essa será uma aplicação que irá se conectar ao backend do [Desafio 06](https
   - [Pré-requisitos](#pré-requisitos)
   - [Instalando](#instalando)
 - [🎈 Uso <a name="usage"></a>](#-uso)
+- [Prévia](#prévia)
 
 ## 🧐 Problema a Resolver <a name = "problem_statement"></a>
 
@@ -59,3 +61,8 @@ Abra o terminal na pasta do projeto e execute:
 ```
 npm start
 ```
+
+## Prévia
+
+<img src="doc/assets/listagem.png" width="400">
+<img src="doc/assets/importacao.png" width="400">
